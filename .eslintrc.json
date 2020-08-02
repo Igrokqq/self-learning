@@ -1,0 +1,19 @@
+{
+    "env": {
+        "commonjs": true,
+        "es2020": true,
+        "node": true
+    },
+    "extends": [
+        "airbnb-base"
+    ],
+    "parserOptions": {
+        "ecmaVersion": 11
+    },
+    "rules": {
+        "indent": ["error", 2],
+        "max-len": ["error", 100],
+        "max-classes-per-file": "off",
+        "no-underscore-dangle": "off"
+    }
+}
