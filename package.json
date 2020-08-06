@@ -9,7 +9,9 @@
   },
   "author": "Wimmmly",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "node-cache": "^5.1.2"
+  },
   "devDependencies": {
     "eslint": "7.5.0",
     "eslint-config-airbnb-base": "14.2.0",
